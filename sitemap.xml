@@ -1,18 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>mohamedhuzien.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2021-02-10T17:27:14+04:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>mohamedhuzien.github.io/</loc>
+    <lastmod>2021-02-17T20:10:26+04:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>mohamedhuzien.github.io/pt/sitemap.xml</loc>
-    
-      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>mohamedhuzien.github.io/tags/php/</loc>
+    <lastmod>2021-02-17T20:10:26+04:00</lastmod>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>mohamedhuzien.github.io/posts/</loc>
+    <lastmod>2021-02-17T20:10:26+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>mohamedhuzien.github.io/posts/quick_introdation_to_rabbitmq/</loc>
+    <lastmod>2021-02-17T20:10:26+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>mohamedhuzien.github.io/tags/</loc>
+    <lastmod>2021-02-17T20:10:26+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>mohamedhuzien.github.io/tags/technology/</loc>
+    <lastmod>2021-02-17T20:10:26+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>mohamedhuzien.github.io/about/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>mohamedhuzien.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>mohamedhuzien.github.io/series/</loc>
+  </url>
+  
+</urlset>
