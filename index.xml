@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mohamed Huzien</title>
-    <link>mohamedhuzien.github.io/</link>
+    <link>https://mohamedhuzien.github.io/</link>
     <description>Recent content on Mohamed Huzien</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020–2021, Mohamed Huzien; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 17 Feb 2021 20:10:26 +0400</lastBuildDate><atom:link href="mohamedhuzien.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Feb 2021 20:10:26 +0400</lastBuildDate><atom:link href="https://mohamedhuzien.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
